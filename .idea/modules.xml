@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/maven-web-application.iml" filepath="$PROJECT_DIR$/maven-web-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-web-app1.iml" filepath="$PROJECT_DIR$/dev-web-app1.iml" />
     </modules>
   </component>
 </project>
