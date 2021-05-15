@@ -112,14 +112,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Momu Solutions Releases Nexus Repository</name>
-	      <url>http://18.221.120.102:9980/momusolutions/repository/momu-release/</url>
+	      <name>dev app1 Releases Nexus Repository</name>
+	      <url>http://18.116.204.175:9980/momusolutions/repository/dev-app1-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Momu Solutions Snapshot Nexus Repository </name>
-	      <url>http://18.221.120.102:9980/momusolutions/repository/momu-snapshot/</url>
+	      <name>dev app1 Snapshot Nexus Repository </name>
+	      <url>http://18.116.204.175:9980/momusolutions/repository/dev-app1-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
