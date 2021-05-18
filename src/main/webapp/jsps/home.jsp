@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		7865 Drivethrough dr,
 		Huston Tx
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Cocomelo</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to Cocomsselo</a>
 	</span>
 </div>
 <hr>
